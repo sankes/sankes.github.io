@@ -76,15 +76,17 @@ comment:
     
 
 # Share
-share: default # options: jiathis, bdshare, addtoany, default
+share: bdshare # options: jiathis, bdshare, addtoany, default
 
 # Plugins
 plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
-    google_analytics: # enter the tracking ID for your Google Analytics
+    # enter the tracking ID for your Google Analytics
+    google_analytics: UA-125721799-1
     google_site_verification: # enter Google site verification code
-    baidu_analytics: # enter Baidu Analytics hash key
+    # enter Baidu Analytics hash key
+    baidu_analytics: 0a2091a2524d128c84ae683b3a332a44
     mathjax: false # options: true, false
 
 # Miscellaneous
